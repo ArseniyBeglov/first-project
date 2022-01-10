@@ -1,3 +1,3 @@
 class Converter(){
-    int b;
+    int a;
 }
